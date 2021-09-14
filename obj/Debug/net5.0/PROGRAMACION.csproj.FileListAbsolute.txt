@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.AssemblyInfo.cs
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.exe
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.deps.json
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.runtimeconfig.json
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.dll
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\ref\PROGRAMACION.dll
+C:\Users\lucas\Desktop\PROGRAMACION\bin\Debug\net5.0\PROGRAMACION.pdb
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.dll
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\ref\PROGRAMACION.dll
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.pdb
+C:\Users\lucas\Desktop\PROGRAMACION\obj\Debug\net5.0\PROGRAMACION.genruntimeconfig.cache
